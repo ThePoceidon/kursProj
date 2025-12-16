@@ -46,7 +46,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [<url>](https://github.com/ThePoceidon/kursProj)
+    git clone https://github.com/ThePoceidon/kursProj
     ```
 2.  **Откройте проект:**
     Откройте файл *.vcxproj* в Visual Studio.
